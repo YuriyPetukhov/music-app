@@ -44,8 +44,7 @@ class PlayerFragment : Fragment() {
         }
 
         binding.pauseButton.setOnClickListener {
-        }
-    }
+        }    }
 
     override fun onDestroyView() {
         super.onDestroyView()
